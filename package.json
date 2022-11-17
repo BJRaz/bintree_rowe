@@ -1,0 +1,15 @@
+{
+  "name": "rowe_bintree",
+  "version": "1.0.0",
+  "description": "Binary trees",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "keywords": [
+    "Rowe"
+  ],
+  "author": "Brian Juul Rasmussen, brian.juul.rasmussen@gmail.com",
+  "license": "ISC"
+}
